@@ -1,15 +1,17 @@
 .main{
   height:580px;
   width:500px;
-  text-align:center;
+  background-color:yellow;
 }
 
 
 
 .main h1{
 color:blue;
+  text-align:center;
+  font-size:100px;
 }
 
-.main li{
+.main ul{
   text-align:center;
 }
