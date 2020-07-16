@@ -1,3 +1,26 @@
 .header{
 height:100px;
-  background-color:
+  background-color:yellow;
+}
+
+.header-logo{
+font-size:36px;
+float:left;
+padding:30px;
+}
+
+.header-list li{
+float:left;
+  list-style:none;
+  padding:20px;
+}
+
+.main{
+  height:400px;
+  text:center;
+  padding:50px ;
+  background-color:red;
+}
+
+
+  
