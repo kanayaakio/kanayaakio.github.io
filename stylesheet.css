@@ -6,13 +6,13 @@ height:100px;
 .header-logo{
 font-size:36px;
 float:left;
-padding:30px;
+padding:20px;
 }
 
 .header-list li{
 float:left;
   list-style:none;
-  padding:20px;
+  padding:20px 30px;
 }
 
 .main{
@@ -21,6 +21,28 @@ float:left;
   padding:50px ;
   background-color:red;
 }
+
+.main h1{
+  font-size:70px;
+  border-bottom:2px solid #dee7ec;
+}
+
+.main li{
+  list-style:none;
+  padding-bottom:20px;
+}
+
+.footer{
+height:100px;
+  background-color:blue;
+  text-align:center;
+}
+
+.footer p{
+padding:30px;
+}
+  
+
 
 
   
