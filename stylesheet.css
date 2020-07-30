@@ -1,3 +1,7 @@
+.container{
+  width:1170px;
+  margin:0 auto;
+}
 
 .top-container{
   height:700px;
@@ -8,11 +12,14 @@
 
 h1{
   font-size:50px;
-  padding-bottom:40px;
+  padding-bottom:10px;
+  text-align:center;
 }
 
 li{
   padding:20px 0;
+  text-align:center;
+  list-style:none;
 }
 
 
