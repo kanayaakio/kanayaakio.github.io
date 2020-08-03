@@ -34,32 +34,8 @@ header h1{
 }
 
 
-.btn{
-display:inline-block;
-  color:white;
-  padding:8px 24px;
-  float:left;
-  width:25%;
+
+footer{
+background-color:black;
+  height:100px;
 }
-
-.a{
-background-color:;
-}
-
-.b{
-  background-color:;
-}
-
-.c{
-background-color:;
-}
-
-.d{
-  background-color:;
-}
-
-.btn-wrapper{
-height:300px;
-}
-
-
